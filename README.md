@@ -94,3 +94,13 @@ Here's a list of the **technical** books I've already worked through or am curre
 <p align="left">
     <a href="https://leetcode.com/PostScripton"><img src="https://skills.syvixor.com/api/icons?i=leetcode" height="20" align="center" alt="LeetCode Logo"/>&nbsp;PostScripton</a><br/>
 </p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PostScripton/PostScripton/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PostScripton/PostScripton/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PostScripton/PostScripton/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
