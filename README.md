@@ -8,7 +8,7 @@
 
 I'm a **backend** Tech Lead and a Go engineer who cares deeply about clean architecture and systems that age well. My focus is the backend and everything around it -- from service design to DevOps and infrastructure. My days are spent shaping technical direction, designing systems, and turning messy problems into simple, maintainable solutions. I'm relentlessly curious about technology and always looking for a sharper, faster, more thoughtful way to build software -- whether that's a new tool, a better pattern, or an AI-driven workflow.
 
-- 🧭 **Tech Lead** — I own architectural decisions and system design, drive the team from a technical standpoint, and keep technical debt under control.
+- 🧭 **Tech Lead** -- I own architectural decisions and system design, drive the team from a technical standpoint, and keep technical debt under control.
 - 💚 **Strong Go engineer** at heart, with solid earlier experience shipping production systems in **PHP**.
 - 🤖 **AI-first workflow.** I proactively bake AI into how I work -- running **Claude** and **multi-agent teams**, each project with its own tailored set of *agents, skills, commands & rules*. I've also worked hands-on with **Cursor**.
 - 🌙 **After hours** you'll find me building **pet projects** -- because great engineering rarely clocks out at 6 PM.
